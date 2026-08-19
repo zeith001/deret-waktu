@@ -1,0 +1,10 @@
+---
+title: "tesss"
+author: "Abdullah Zeith Alfarizy (G1401231060)"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r}
+x=3
+```
